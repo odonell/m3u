@@ -1,0 +1,176 @@
+#EXTM3U
+## Banegas
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" tvg-chno="1" group-title="Generalista",LA 1
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93171
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" tvg-chno="2" group-title="Generalista",LA 2
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93173
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" tvg-chno="3" group-title="Generalista",Antena 3
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93175
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" tvg-chno="4" group-title="Generalista",Cuatro
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93177
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" tvg-chno="5" group-title="Generalista",Telecinco
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/184131
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" tvg-chno="6" group-title="Generalista",La Sexta
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93181
+#EXTINF:-1 tvg-id="Movistar plus+" tvg-name="Movistar plus+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-chno="7" group-title="Generalista",Movistar plus+
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/583064
+#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="M+ Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" tvg-chno="8" group-title="Deportes",M+ Vamos
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/387334
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMAD" tvg-chno="9" group-title="Generalista",Telemadrid
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/636012
+#EXTINF:-1 tvg-id="La Otra" tvg-name="La Otra" tvg-logo="https://raw.githubusercontent.com/odonell/IPTV/master/LaOtra.png" tvg-chno="10" group-title="Generalista",La Otra
+http://234819412639316864.of230922.xyz:80/play/Pico04/58642642/316864.ts
+#EXTINF:-1 tvg-id="M+ Cine" tvg-name="M+ Cine" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" tvg-chno="12" group-title="Cine",M+ Cine
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93186
+#EXTINF:-1 tvg-id="M+ Series" tvg-name="M+ Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" tvg-chno="13" group-title="Series",M+ Series
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93212
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ Originales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" tvg-chno="14" group-title="Generalista",M+ Originales
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/583523
+#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="M+ Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" tvg-chno="17" group-title="Documentales",M+ Documentales
+http://234819412639552954.of230922.xyz:80/play/Pico04/58642642/552954.ts
+#EXTINF:-1 tvg-id="M+ Música" tvg-name="M+ Música" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" tvg-chno="18" group-title="Música",M+ Música
+http://234819412639561135.of230922.xyz:80/play/Pico04/58642642/561135.ts
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="La Resistencia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png" tvg-chno="19" group-title="Show",La Resistencia
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/507250
+#EXTINF:-1 tvg-id="M+ Clásicos" tvg-name="M+ Clásicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" tvg-chno="20" group-title="Cine",M+ Clásicos
+http://921953312505321314.of090823.xyz:80/play/Pico04/58642642/321314.ts
+#EXTINF:-1 tvg-id="M+ Acción" tvg-name="M+ Acción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" tvg-chno="21" group-title="Cine",M+ Acción
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/511699
+#EXTINF:-1 tvg-id="M+ Comedia" tvg-name="M+ Comedia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" tvg-chno="22" group-title="Cine",M+ Comedia
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93190
+#EXTINF:-1 tvg-id="M+ Drama" tvg-name="M+ Drama" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" tvg-chno="23" group-title="Cine",M+ Drama
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93192
+#EXTINF:-1 tvg-id="M+ Suspense" tvg-name="M+ Suspense" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MSUSP.png" tvg-chno="24" group-title="Cine",M+ Suspense
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93211
+#EXTINF:-1 tvg-id="M+ Indie" tvg-name="M+ Indie" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png" tvg-chno="25" group-title="Cine",M+ Indie
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/583067
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" tvg-chno="26" group-title="Cine",M+ Cine Español
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93194
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM Cine" tvg-logo="https://raw.githubusercontent.com/odonell/IPTV/master/BOM_Cine.png" tvg-chno="27" group-title="Cine",BOM Cine
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/580822
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" tvg-chno="30" group-title="Cine",TCM
+http://234819412639321425.of230922.xyz:80/play/Pico04/58642642/321425.ts
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" tvg-chno="31" group-title="Cine",Hollywood
+http://234819412639321265.of230922.xyz:80/play/Pico04/58642642/321265.ts
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTRM.png" tvg-chno="32" group-title="Cine",XTRM
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93207
+#EXTINF:-1 tvg-id="Sundance" tvg-name="Sundance" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" tvg-chno="33" group-title="Cine",Sundance
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93204
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" tvg-chno="34" group-title="Cine",DARK
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/511697
+#EXTINF:-1 tvg-id="Somos" tvg-name="Somos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png" tvg-chno="35" group-title="Cine",Somos
+http://921953312505321412.of090823.xyz:80/play/Pico04/58642642/321412.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" tvg-chno="36" group-title="Cine",Paramount Channel
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/194811
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" tvg-chno="37" group-title="Cine",BE MAD
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/184154
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" tvg-chno="38" group-title="Cine",Fox
+http://234819412639321251.of230922.xyz:80/play/Pico04/58642642/321251.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" tvg-chno="39" group-title="Cine",AXN
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93222
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" tvg-chno="40" group-title="Cine",Warner TV
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93227
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" tvg-chno="41" group-title="Cine",Comedy Central
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/109736
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="Calle 13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" tvg-chno="42" group-title="Cine",Calle 13
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93216
+#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMO" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" tvg-chno="43" group-title="Cine",COSMO
+http://234819412639321187.of230922.xyz:80/play/Pico04/58642642/321187.ts
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" tvg-chno="44" group-title="Cine",SYFY
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93231
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" tvg-chno="45" group-title="Cine",AMC
+http://921953312505321102.of090823.xyz:80/play/Pico04/58642642/321102.ts
+#EXTINF:-1 tvg-id="AXN Movies" tvg-name="AXN Movies" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" tvg-chno="46" group-title="Cine",AXN Movies
+http://921953312505538658.of090823.xyz:80/play/Pico04/58642642/538658.ts
+#EXTINF:-1 tvg-id="13 TV" tvg-name="13 TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" tvg-chno="47" group-title="Generalista",13 TV
+http://234819412639321451.of230922.xyz:80/play/Pico04/58642642/321451.ts
+#EXTINF:-1 tvg-id="Energy" tvg-name="Energy" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" tvg-chno="48" group-title="Show",Energy
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93242
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" tvg-chno="49" group-title="Show",FDF
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93237
+#EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" tvg-chno="50" group-title="Generalista",Neox
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93251
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3S" tvg-logo="http://vpsapache.hopto.org/images/a3s.png" tvg-chno="51" group-title="Series",A3S
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93239
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-chno="54" group-title="Deportes",M+ LALIGA TV
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/109741
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" tvg-chno="55" group-title="Deportes",DAZN LALIGA
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/513816
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" tvg-chno="56" group-title="Deportes",LALIGA TV HYPERMOTION
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/595553
+#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="M+ LALIGA TV 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" tvg-chno="57" group-title="Deportes",M+ LALIGA TV 2
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/636011
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LALIGA 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" tvg-chno="58" group-title="Deportes",DAZN LALIGA 2
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/513819
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" tvg-chno="59" group-title="Deportes",LALIGA TV HYPERMOTION 2
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/595558
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" tvg-chno="60" group-title="Deportes",M+ Liga de Campeones
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/399378
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" tvg-chno="61" group-title="Deportes",M+ Liga de Campeones 2
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/399379
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" tvg-chno="62" group-title="Deportes",M+ Liga de Campeones 3
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/399383
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M+ Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" tvg-chno="63" group-title="Deportes",M+ Deportes
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93142
+#EXTINF:-1 tvg-id="M+ Deportes 2" tvg-name="M+ Deportes 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" tvg-chno="64" group-title="Deportes",M+ Deportes 2
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93361
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" tvg-chno="65" group-title="Deportes",M+ Deportes 3
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93362
+#EXTINF:-1 tvg-id="M+ Golf" tvg-name="M+ Golf" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" tvg-chno="67" group-title="Deportes",M+ Golf
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/184165
+#EXTINF:-1 tvg-id="M+ Golf 2" tvg-name="M+ Golf 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" tvg-chno="68" group-title="Deportes",M+ Golf 2
+http://234819412639454216.of230922.xyz:80/play/Pico04/58642642/454216.ts
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" tvg-chno="69" group-title="Deportes",DAZN F1
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/401064
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" tvg-chno="70" group-title="Deportes",DAZN 1
+http://921953312505373766.of090823.xyz:80/play/Pico04/58642642/373766.ts
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" tvg-chno="71" group-title="Deportes",DAZN 2
+http://921953312505228389.of090823.xyz:80/play/Pico04/58642642/228389.ts
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" tvg-chno="72" group-title="Deportes",Eurosport 1
+http://234819412639466756.of230922.xyz:80/play/Pico04/58642642/466756.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" tvg-chno="73" group-title="Deportes",Eurosport 2
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/418370
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" tvg-chno="74" group-title="Deportes",GOL PLAY
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93377
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" tvg-chno="75" group-title="Deportes",Teledeporte
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/184166
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" tvg-chno="76" group-title="Deportes",Real Madrid TV
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/330849
+#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" tvg-chno="77" group-title="Documentales",Caza y Pesca
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93287
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="Iberalia TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" tvg-chno="78" group-title="Documentales",Iberalia TV
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93288
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" tvg-chno="82" group-title="Documentales",National Geographic
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93274
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" tvg-chno="83" group-title="Documentales",Nat Geo Wild
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/135066
+#EXTINF:-1 tvg-id="Historia" tvg-name="Historia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" tvg-chno="84" group-title="Documentales",Historia
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93270
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" tvg-chno="85" group-title="Documentales",Discovery
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93271
+#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" tvg-chno="86" group-title="Documentales",Odisea
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93272
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC Break" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" tvg-chno="87" group-title="Estilo de vida",AMC Break
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/401915
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" tvg-chno="89" group-title="Estilo de vida",DMAX
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93280
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC Crime" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" tvg-chno="90" group-title="Estilo de vida",AMC Crime
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/532063
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="BuenViaje" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" tvg-chno="91" group-title="Estilo de vida",BuenViaje
+http://921953312505573239.of090823.xyz:80/play/Pico04/58642642/573239.ts
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="Canal Cocina" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" tvg-chno="92" group-title="Estilo de vida",Canal Cocina
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93248
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="Canal Decasa" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" tvg-chno="93" group-title="Estilo de vida",Canal Decasa
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93246
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="https://miguia.tv/channels/big_279.png" tvg-chno="94" group-title="Estilo de vida",DKISS
+http://234819412639321224.of230922.xyz:80/play/Pico04/58642642/321224.ts
+#EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" tvg-chno="95" group-title="Generalista",Divinity
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/109897
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" tvg-chno="96" group-title="Generalista",Nova
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93252
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" tvg-chno="97" group-title="Generalista",Mega
+http://cartatv.es:8080/7c9ZjBdCKQ/2b8mqtdgbB/93241
+#EXTINF:-1 tvg-id="Ten" tvg-name="Ten" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" tvg-chno="98" group-title="Estilo de vida",Ten
+http://234819412639540947.of230922.xyz:80/play/Pico04/58642642/540947.ts
+#EXTINF:-1 tvg-id="Movistar Plus+ 2" tvg-name="Movistar Plus+ 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png" tvg-chno="176" group-title="Deportes",Movistar Plus+ 2
+http://234819412639626247.of230922.xyz:80/play/Pico04/58642642/626247.ts
